@@ -5,7 +5,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/justmoon/node-bignum.git"
+    "url": "https://github.com/maztheman/node-bignum.git"
   },
   "keywords": [
     "openssl",
@@ -36,7 +36,7 @@
     "test": "standard && tap --timeout 120 test/*.js"
   },
   "binary": {
-    "host": "https://https://https://github.com/justmooon",
+    "host": "https://github.com/maztheman",
     "module_name": "bignum",
     "module_path": "binding/",
     "remote_path": "./node-{name}/archive/v{version}"
